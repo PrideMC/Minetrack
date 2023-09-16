@@ -135,6 +135,18 @@
 		{
 			"name": "1.19.2",
 			"protocolId": 760
-		}
+		},
+		{
+			"name": "1.19.3",
+			"protocolId": 761
+		},
+		{
+			"name": "1.19.4",
+			"protocolId": 762
+		},
+		{
+            		"name": "1.20.1",
+            		"protocolId": 763
+        	}
 	]
 }
